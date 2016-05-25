@@ -1,0 +1,15 @@
+object (MB:1965,Shel:1968);
+// need to subtract birth year from current year to get age
+
+var currYear = 2016
+var brthYear = 1965{
+	for (currYear - brthYear
+difference=currYear - brthYear;
+
+}
+
+
+
+
+
+// console log 'They are either ' ' or ' '.';
