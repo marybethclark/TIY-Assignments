@@ -27,7 +27,7 @@ var str = "How many more potatoes?";
 str.split("o");
 => [ 'H', 'w many m', 're p', 'tat', 'es?' ]
 
-// .join()joins elements in an arry into a string (You can add words in between,such as "then" if desired)
+// .join()joins elements in an array into a string (You can add words in between,such as "then" if desired)
 var seasons = ["Spring", "Summer", "Winter", "Fall"];
 seasons.join(" then ");
 => 'Spring then Summer then Winter then Fall'
@@ -66,6 +66,7 @@ console.log(cities);
 // .filter()creates a new array composed of elements that passed a test specified by a function
 //I DON'T UNDERSTAND WHY I COULN'T GET THIS TO RUN IN repl.it.
 //Source:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+
 // .map()
 // function isBigEnough(value) {
 //   return value >= 10;
