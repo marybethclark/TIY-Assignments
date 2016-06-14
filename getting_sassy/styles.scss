@@ -1,0 +1,14 @@
+// Since my original styles.scss file wasn't saved when Atom crashed, I'll attempt to reconstruct one below:
+
+$border-color:pink;
+$font-color:red;
+$header-color:blue;
+
+.wrapper{
+border: 5px;
+border-color: $border-color;
+}
+
+h1{
+  color:$header-color;
+}
